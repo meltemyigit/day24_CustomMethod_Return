@@ -2,7 +2,7 @@ package day24_CustomMethod_Return;
 
 public class BreakfastTasks {
     public static void main(String[] args) {
-        initials("Meltem", "Yigit");
+        initials("Meltem", "Yigit2");
         initial2("cydeo","school");
     }
     public static void initials(String firstName, String lastName){
